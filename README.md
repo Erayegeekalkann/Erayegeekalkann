@@ -1,15 +1,15 @@
 <h1 align="center">Hey, I'm Beanz</h1>
 
-<h3 align="center">Solo indie dev • building my first game</h3>
+<h3 align="center">Solo indie dev • building my game</h3>
 
 ---
 
 ###  About Me
 
--  Solo indie developer working on my **first game**
+-  Solo indie developer working on my game
 -  Comfortable with **Python, C#, HTML, CSS** (mostly?)
 -  Building visuals in **Blender**, gameplay in **Unity**
--  Currently learning **Linux** (send help)
+-  Currently learning **rust** (send help)
 -  Fueled by **boredom**
 -  When not coding, I'm probably gaming
 -  Socially awkward, but my code compiles (it does NOT)
@@ -19,7 +19,7 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,html,css,unity,blender,linux,git,java" />
+  <img src="https://skillicons.dev/icons?i=python,cs,html,css,unity,blender,linux,git,java,rust" />
 </p>
 
 ---
